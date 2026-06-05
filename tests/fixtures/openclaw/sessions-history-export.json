@@ -1,0 +1,7 @@
+{
+  "sessionId": "openclaw-export-1",
+  "messages": [
+    {"role": "user", "content": "Review agent usage.", "timestamp": "2026-06-04T11:00:00Z"},
+    {"role": "assistant", "content": "Usage looks healthy.", "timestamp": "2026-06-04T11:01:00Z", "model": "deepseek-v4-pro"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "sessionId": "openclaw-s1",
+      "sessionKey": "main",
+      "agentId": "agent-a",
+      "model": "deepseek-v4-pro",
+      "updatedAt": "2026-06-04T10:05:00Z"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"role":"user","timestamp":"2026-06-04T10:00:00Z","content":"Summarize project errors.","sessionId":"openclaw-s1","projectPath":"/repo/openclaw"}
+{"role":"assistant","timestamp":"2026-06-04T10:00:10Z","content":"I will inspect recent failures.","model":"deepseek-v4-pro","sessionId":"openclaw-s1"}
+{"role":"tool","timestamp":"2026-06-04T10:00:20Z","name":"sessions_history","input":{"includeTools":true},"output":"history returned","error":false,"sessionId":"openclaw-s1"}
+{"role":"assistant","timestamp":"2026-06-04T10:02:00Z","content":"The project has repeated test command failures.","model":"deepseek-v4-pro","sessionId":"openclaw-s1"}
